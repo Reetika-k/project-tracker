@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Project Tracker
- * Plugin URI: https://example.com/project-tracker
+ * Plugin URI: https://github.com/Reetika-k/project-tracker.git
  * Description: A custom WordPress plugin to manage projects and tasks via dashboard and REST API.
  * Version: 1.0.0
  * Author: Reetika Kukreja
- * Author URI: https://example.com
+ * Author URI: https://github.com/Reetika-k/
  * License: GPL-2.0-or-later
  * Text Domain: project-tracker
  */
@@ -567,4 +567,5 @@ class Project_Tracker {
 }
 
 // Instantiate the class.
+
 new Project_Tracker();
